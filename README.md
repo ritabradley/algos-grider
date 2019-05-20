@@ -1,3 +1,3 @@
-# AlgoCasts
+# Algos-Grider
 
-Companion repo to a course on Udemy.com
+Student repo to a @StephenGrider course on Udemy.com
